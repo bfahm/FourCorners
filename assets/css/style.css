@@ -137,6 +137,15 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 2px;
   text-transform: uppercase;
 }
+#header .logo-sml {
+  font-size: 12px;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
 #header .logo a {
   color: #fff;
 }
